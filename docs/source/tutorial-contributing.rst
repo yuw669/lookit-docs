@@ -136,6 +136,7 @@ List of tutorial participants
 - Toby Mintz (University of Southern California)
 - Jazlyn Armendariz (California State University, Northridge)
 - Melissa Santos (Stanford University) 
+- Christine Wang (University of California, San Diego)
 
 .. _Github issues overview:
 
